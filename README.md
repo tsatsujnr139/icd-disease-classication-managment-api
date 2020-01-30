@@ -49,7 +49,7 @@ docker-compose run app sh -c "python manage.py load_initial_data_to_db"
 docker-compose up
 ```
 
-The API root can then be accessed from http://127.0.0.1:8000/api/disease-classification
+The API root can be accessed locally from http://127.0.0.1:8000/api/disease-classification
 
 HTTP Operations can be run on http://127.0.0.1:8000/api/disease-classification/diagnosis
 
@@ -69,4 +69,4 @@ docker-compose run app sh -c "python manage.py test && flake8"
 
 ## Authors
 
-- **Tsatsu Adogla-Bessa Jnr** - _Initial work_ - [PurpleBooth](https://github.com/tsatsujnr)
+- **Tsatsu Adogla-Bessa Jnr**
