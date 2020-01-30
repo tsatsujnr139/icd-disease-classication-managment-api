@@ -1,0 +1,200 @@
+ICD-10,A00,0,A000,"Cholera due to Vibrio cholerae 01 biovar cholerae","Cholera due to Vibrio cholerae 01, biovar cholerae",Cholera
+ICD-10,A00,1,A001,"Cholera due to Vibrio cholerae 01 biovar eltor","Cholera due to Vibrio cholerae 01, biovar eltor",Cholera
+ICD-10,A00,9,A009,"Cholera unspecified","Cholera unspecified",Cholera
+ICD-10,A010,0,A0100,"Typhoid fever unspecified","Typhoid fever, unspecified",Typhoid fever
+ICD-10,A010,1,A0101,Typhoid meningitis,Typhoid meningitis,Typhoid fever
+ICD-10,A010,2,A0102,Typhoid fever with heart involvement,Typhoid fever with heart involvement,Typhoid fever
+ICD-10,A010,3,A0103,Typhoid pneumonia,Typhoid pneumonia,Typhoid fever
+ICD-10,A010,4,A0104,Typhoid arthritis,Typhoid arthritis,Typhoid fever
+ICD-10,A010,5,A0105,Typhoid osteomyelitis,Typhoid osteomyelitis,Typhoid fever
+ICD-10,A010,9,A0109,Typhoid fever with other complications,Typhoid fever with other complications,Typhoid fever
+ICD-10,A011,,A011,Paratyphoid fever A,Paratyphoid fever A,Paratyphoid fever A
+ICD-10,A012,,A012,Paratyphoid fever B,Paratyphoid fever B,Paratyphoid fever B
+ICD-10,A013,,A013,Paratyphoid fever C,Paratyphoid fever C,Paratyphoid fever C
+ICD-10,A014,,A014,"Paratyphoid fever, unspecified","Paratyphoid fever, unspecified","Paratyphoid fever, unspecified"
+ICD-10,A02,0,A020,Salmonella enteritis,Salmonella enteritis,Other salmonella infections
+ICD-10,A02,1,A021,Salmonella sepsis,Salmonella sepsis,Other salmonella infections
+ICD-10,A022,0,A0220,"Localized salmonella infection, unspecified","Localized salmonella infection, unspecified",Localized salmonella infections
+ICD-10,A022,1,A0221,Salmonella meningitis,Salmonella meningitis,Localized salmonella infections
+ICD-10,A022,2,A0222,Salmonella pneumonia,Salmonella pneumonia,Localized salmonella infections
+ICD-10,A022,3,A0223,Salmonella arthritis,Salmonella arthritis,Localized salmonella infections
+ICD-10,A022,4,A0224,Salmonella osteomyelitis,Salmonella osteomyelitis,Localized salmonella infections
+ICD-10,A022,5,A0225,Salmonella pyelonephritis,Salmonella pyelonephritis,Localized salmonella infections
+ICD-10,A022,9,A0229,Salmonella with other localized infection,Salmonella with other localized infection,Localized salmonella infections
+ICD-10,A028,,A028,Other specified salmonella infections,Other specified salmonella infections,Other specified salmonella infections
+ICD-10,A029,,A029,"Salmonella infection, unspecified","Salmonella infection, unspecified","Salmonella infection, unspecified"
+ICD-10,A03,0,A030,Shigellosis due to Shigella dysenteriae,Shigellosis due to Shigella dysenteriae,Shigellosis
+ICD-10,A03,1,A031,Shigellosis due to Shigella flexneri,Shigellosis due to Shigella flexneri,Shigellosis
+ICD-10,A03,2,A032,Shigellosis due to Shigella boydii,Shigellosis due to Shigella boydii,Shigellosis
+ICD-10,A03,3,A033,Shigellosis due to Shigella sonnei,Shigellosis due to Shigella sonnei,Shigellosis
+ICD-10,A03,8,A038,Other shigellosis,Other shigellosis,Shigellosis
+ICD-10,A03,9,A039,"Shigellosis unspecified","Shigellosis, unspecified",Shigellosis
+ICD-10,A04,0,A040,Enteropathogenic Escherichia coli infection,Enteropathogenic Escherichia coli infection,Other bacterial intestinal infections
+ICD-10,A04,1,A041,Enterotoxigenic Escherichia coli infection,Enterotoxigenic Escherichia coli infection,Other bacterial intestinal infections
+ICD-10,A04,2,A042,Enteroinvasive Escherichia coli infection,Enteroinvasive Escherichia coli infection,Other bacterial intestinal infections
+ICD-10,A04,3,A043,Enterohemorrhagic Escherichia coli infection,Enterohemorrhagic Escherichia coli infection,Other bacterial intestinal infections
+ICD-10,A04,4,A044,Other intestinal Escherichia coli infections,Other intestinal Escherichia coli infections,Other bacterial intestinal infections
+ICD-10,A04,5,A045,Campylobacter enteritis,Campylobacter enteritis,Other bacterial intestinal infections
+ICD-10,A04,6,A046,Enteritis due to Yersinia enterocolitica,Enteritis due to Yersinia enterocolitica,Other bacterial intestinal infections
+ICD-10,A047,1,A0471,"Enterocolitis due to Clostridium difficile, recurrent","Enterocolitis due to Clostridium difficile, recurrent",Enterocolitis due to Clostridium difficile
+ICD-10,A047,2,A0472,"Enterocolitis d/t Clostridium difficile, not spcf as recur","Enterocolitis due to Clostridium difficile, not specified as recurrent",Enterocolitis due to Clostridium difficile
+ICD-10,A048,,A048,Other specified bacterial intestinal infections,Other specified bacterial intestinal infections,Other specified bacterial intestinal infections
+ICD-10,A049,,A049,"Bacterial intestinal infection, unspecified","Bacterial intestinal infection, unspecified","Bacterial intestinal infection, unspecified"
+ICD-10,A05,0,A050,Foodborne staphylococcal intoxication,Foodborne staphylococcal intoxication,"Other bacterial foodborne intoxications, not elsewhere classified"
+ICD-10,A05,1,A051,Botulism food poisoning,Botulism food poisoning,"Other bacterial foodborne intoxications, not elsewhere classified"
+ICD-10,A05,2,A052,Foodborne Clostridium perfringens intoxication,Foodborne Clostridium perfringens [Clostridium welchii] intoxication,"Other bacterial foodborne intoxications, not elsewhere classified"
+ICD-10,A05,3,A053,Foodborne Vibrio parahaemolyticus intoxication,Foodborne Vibrio parahaemolyticus intoxication,"Other bacterial foodborne intoxications, not elsewhere classified"
+ICD-10,A05,4,A054,Foodborne Bacillus cereus intoxication,Foodborne Bacillus cereus intoxication,"Other bacterial foodborne intoxications, not elsewhere classified"
+ICD-10,A05,5,A055,Foodborne Vibrio vulnificus intoxication,Foodborne Vibrio vulnificus intoxication,"Other bacterial foodborne intoxications, not elsewhere classified"
+ICD-10,A05,8,A058,Other specified bacterial foodborne intoxications,Other specified bacterial foodborne intoxications,"Other bacterial foodborne intoxications, not elsewhere classified"
+ICD-10,A05,9,A059,"Bacterial foodborne intoxication, unspecified","Bacterial foodborne intoxication, unspecified","Other bacterial foodborne intoxications, not elsewhere classified"
+ICD-10,A06,0,A060,Acute amebic dysentery,Acute amebic dysentery,Amebiasis
+ICD-10,A06,1,A061,Chronic intestinal amebiasis,Chronic intestinal amebiasis,Amebiasis
+ICD-10,A06,2,A062,Amebic nondysenteric colitis,Amebic nondysenteric colitis,Amebiasis
+ICD-10,A06,3,A063,Ameboma of intestine,Ameboma of intestine,Amebiasis
+ICD-10,A06,4,A064,Amebic liver abscess,Amebic liver abscess,Amebiasis
+ICD-10,A06,5,A065,Amebic lung abscess,Amebic lung abscess,Amebiasis
+ICD-10,A06,6,A066,Amebic brain abscess,Amebic brain abscess,Amebiasis
+ICD-10,A06,7,A067,Cutaneous amebiasis,Cutaneous amebiasis,Amebiasis
+ICD-10,A068,1,A0681,Amebic cystitis,Amebic cystitis,Amebic infection of other sites
+ICD-10,A068,2,A0682,Other amebic genitourinary infections,Other amebic genitourinary infections,Amebic infection of other sites
+ICD-10,A068,9,A0689,Other amebic infections,Other amebic infections,Amebic infection of other sites
+ICD-10,A069,,A069,"Amebiasis, unspecified","Amebiasis, unspecified","Amebiasis, unspecified"
+ICD-10,A07,0,A070,Balantidiasis,Balantidiasis,Other protozoal intestinal diseases
+ICD-10,A07,1,A071,Giardiasis [lambliasis],Giardiasis [lambliasis],Other protozoal intestinal diseases
+ICD-10,A07,2,A072,Cryptosporidiosis,Cryptosporidiosis,Other protozoal intestinal diseases
+ICD-10,A07,3,A073,Isosporiasis,Isosporiasis,Other protozoal intestinal diseases
+ICD-10,A07,4,A074,Cyclosporiasis,Cyclosporiasis,Other protozoal intestinal diseases
+ICD-10,A07,8,A078,Other specified protozoal intestinal diseases,Other specified protozoal intestinal diseases,Other protozoal intestinal diseases
+ICD-10,A07,9,A079,"Protozoal intestinal disease, unspecified","Protozoal intestinal disease, unspecified",Other protozoal intestinal diseases
+ICD-10,A08,0,A080,Rotaviral enteritis,Rotaviral enteritis,Viral and other specified intestinal infections
+ICD-10,A081,1,A0811,Acute gastroenteropathy due to Norwalk agent,Acute gastroenteropathy due to Norwalk agent,Acute gastroenteropathy due to Norwalk agent and other small round viruses
+ICD-10,A081,9,A0819,Acute gastroenteropathy due to other small round viruses,Acute gastroenteropathy due to other small round viruses,Acute gastroenteropathy due to Norwalk agent and other small round viruses
+ICD-10,A082,,A082,Adenoviral enteritis,Adenoviral enteritis,Adenoviral enteritis
+ICD-10,A083,1,A0831,Calicivirus enteritis,Calicivirus enteritis,Other viral enteritis
+ICD-10,A083,2,A0832,Astrovirus enteritis,Astrovirus enteritis,Other viral enteritis
+ICD-10,A083,9,A0839,Other viral enteritis,Other viral enteritis,Other viral enteritis
+ICD-10,A084,,A084,"Viral intestinal infection, unspecified","Viral intestinal infection, unspecified","Viral intestinal infection, unspecified"
+ICD-10,A088,,A088,Other specified intestinal infections,Other specified intestinal infections,Other specified intestinal infections
+ICD-10,A09,,A09,"Infectious gastroenteritis and colitis, unspecified","Infectious gastroenteritis and colitis, unspecified","Infectious gastroenteritis and colitis, unspecified"
+ICD-10,A15,0,A150,Tuberculosis of lung,Tuberculosis of lung,Respiratory tuberculosis
+ICD-10,A15,4,A154,Tuberculosis of intrathoracic lymph nodes,Tuberculosis of intrathoracic lymph nodes,Respiratory tuberculosis
+ICD-10,A15,5,A155,"Tuberculosis of larynx, trachea and bronchus","Tuberculosis of larynx, trachea and bronchus",Respiratory tuberculosis
+ICD-10,A15,6,A156,Tuberculous pleurisy,Tuberculous pleurisy,Respiratory tuberculosis
+ICD-10,A15,7,A157,Primary respiratory tuberculosis,Primary respiratory tuberculosis,Respiratory tuberculosis
+ICD-10,A15,8,A158,Other respiratory tuberculosis,Other respiratory tuberculosis,Respiratory tuberculosis
+ICD-10,A15,9,A159,Respiratory tuberculosis unspecified,Respiratory tuberculosis unspecified,Respiratory tuberculosis
+ICD-10,A17,0,A170,Tuberculous meningitis,Tuberculous meningitis,Tuberculosis of nervous system
+ICD-10,A17,1,A171,Meningeal tuberculoma,Meningeal tuberculoma,Tuberculosis of nervous system
+ICD-10,A178,1,A1781,Tuberculoma of brain and spinal cord,Tuberculoma of brain and spinal cord,Other tuberculosis of nervous system
+ICD-10,A178,2,A1782,Tuberculous meningoencephalitis,Tuberculous meningoencephalitis,Other tuberculosis of nervous system
+ICD-10,A178,3,A1783,Tuberculous neuritis,Tuberculous neuritis,Other tuberculosis of nervous system
+ICD-10,A178,9,A1789,Other tuberculosis of nervous system,Other tuberculosis of nervous system,Other tuberculosis of nervous system
+ICD-10,A179,,A179,"Tuberculosis of nervous system, unspecified","Tuberculosis of nervous system, unspecified","Tuberculosis of nervous system, unspecified"
+ICD-10,A180,1,A1801,Tuberculosis of spine,Tuberculosis of spine,Tuberculosis of bones and joints
+ICD-10,A180,2,A1802,Tuberculous arthritis of other joints,Tuberculous arthritis of other joints,Tuberculosis of bones and joints
+ICD-10,A180,3,A1803,Tuberculosis of other bones,Tuberculosis of other bones,Tuberculosis of bones and joints
+ICD-10,A180,9,A1809,Other musculoskeletal tuberculosis,Other musculoskeletal tuberculosis,Tuberculosis of bones and joints
+ICD-10,A181,0,A1810,"Tuberculosis of genitourinary system, unspecified","Tuberculosis of genitourinary system, unspecified",Tuberculosis of genitourinary system
+ICD-10,A181,1,A1811,Tuberculosis of kidney and ureter,Tuberculosis of kidney and ureter,Tuberculosis of genitourinary system
+ICD-10,A181,2,A1812,Tuberculosis of bladder,Tuberculosis of bladder,Tuberculosis of genitourinary system
+ICD-10,A181,3,A1813,Tuberculosis of other urinary organs,Tuberculosis of other urinary organs,Tuberculosis of genitourinary system
+ICD-10,A181,4,A1814,Tuberculosis of prostate,Tuberculosis of prostate,Tuberculosis of genitourinary system
+ICD-10,A181,5,A1815,Tuberculosis of other male genital organs,Tuberculosis of other male genital organs,Tuberculosis of genitourinary system
+ICD-10,A181,6,A1816,Tuberculosis of cervix,Tuberculosis of cervix,Tuberculosis of genitourinary system
+ICD-10,A181,7,A1817,Tuberculous female pelvic inflammatory disease,Tuberculous female pelvic inflammatory disease,Tuberculosis of genitourinary system
+ICD-10,A181,8,A1818,Tuberculosis of other female genital organs,Tuberculosis of other female genital organs,Tuberculosis of genitourinary system
+ICD-10,A182,,A182,Tuberculous peripheral lymphadenopathy,Tuberculous peripheral lymphadenopathy,Tuberculous peripheral lymphadenopathy
+ICD-10,A183,1,A1831,Tuberculous peritonitis,Tuberculous peritonitis,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+ICD-10,A183,2,A1832,Tuberculous enteritis,Tuberculous enteritis,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+ICD-10,A183,9,A1839,Retroperitoneal tuberculosis,Retroperitoneal tuberculosis,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+ICD-10,A184,,A184,Tuberculosis of skin and subcutaneous tissue,Tuberculosis of skin and subcutaneous tissue,Tuberculosis of skin and subcutaneous tissue
+ICD-10,A185,0,A1850,"Tuberculosis of eye, unspecified","Tuberculosis of eye, unspecified",Tuberculosis of eye
+ICD-10,A185,1,A1851,Tuberculous episcleritis,Tuberculous episcleritis,Tuberculosis of eye
+ICD-10,A185,2,A1852,Tuberculous keratitis,Tuberculous keratitis,Tuberculosis of eye
+ICD-10,A185,3,A1853,Tuberculous chorioretinitis,Tuberculous chorioretinitis,Tuberculosis of eye
+ICD-10,A185,4,A1854,Tuberculous iridocyclitis,Tuberculous iridocyclitis,Tuberculosis of eye
+ICD-10,A185,9,A1859,Other tuberculosis of eye,Other tuberculosis of eye,Tuberculosis of eye
+ICD-10,A186,,A186,Tuberculosis of (inner) (middle) ear,Tuberculosis of (inner) (middle) ear,Tuberculosis of (inner) (middle) ear
+ICD-10,A187,,A187,Tuberculosis of adrenal glands,Tuberculosis of adrenal glands,Tuberculosis of adrenal glands
+ICD-10,A188,1,A1881,Tuberculosis of thyroid gland,Tuberculosis of thyroid gland,Tuberculosis of other specified organs
+ICD-10,A188,2,A1882,Tuberculosis of other endocrine glands,Tuberculosis of other endocrine glands,Tuberculosis of other specified organs
+ICD-10,A188,3,A1883,"Tuberculosis of digestive tract organs, NEC","Tuberculosis of digestive tract organs, not elsewhere classified",Tuberculosis of other specified organs
+ICD-10,A188,4,A1884,Tuberculosis of heart,Tuberculosis of heart,Tuberculosis of other specified organs
+ICD-10,A188,5,A1885,Tuberculosis of spleen,Tuberculosis of spleen,Tuberculosis of other specified organs
+ICD-10,A188,9,A1889,Tuberculosis of other sites,Tuberculosis of other sites,Tuberculosis of other specified organs
+ICD-10,A19,0,A190,Acute miliary tuberculosis of a single specified site,Acute miliary tuberculosis of a single specified site,Miliary tuberculosis
+ICD-10,A19,1,A191,Acute miliary tuberculosis of multiple sites,Acute miliary tuberculosis of multiple sites,Miliary tuberculosis
+ICD-10,A19,2,A192,"Acute miliary tuberculosis, unspecified","Acute miliary tuberculosis, unspecified",Miliary tuberculosis
+ICD-10,A19,8,A198,Other miliary tuberculosis,Other miliary tuberculosis,Miliary tuberculosis
+ICD-10,A19,9,A199,"Miliary tuberculosis unspecified","Miliary tuberculosis unspecified",Miliary tuberculosis
+ICD-10,A20,0,A200,Bubonic plague,Bubonic plague,Plague
+ICD-10,A20,1,A201,Cellulocutaneous plague,Cellulocutaneous plague,Plague
+ICD-10,A20,2,A202,Pneumonic plague,Pneumonic plague,Plague
+ICD-10,A20,3,A203,Plague meningitis,Plague meningitis,Plague
+ICD-10,A20,7,A207,Septicemic plague,Septicemic plague,Plague
+ICD-10,A20,8,A208,Other forms of plague,Other forms of plague,Plague
+ICD-10,A20,9,A209,"Plague unspecified","Plague unspecified",Plague
+ICD-10,A21,0,A210,Ulceroglandular tularemia,Ulceroglandular tularemia,Tularemia
+ICD-10,A21,1,A211,Oculoglandular tularemia,Oculoglandular tularemia,Tularemia
+ICD-10,A21,2,A212,Pulmonary tularemia,Pulmonary tularemia,Tularemia
+ICD-10,A21,3,A213,Gastrointestinal tularemia,Gastrointestinal tularemia,Tularemia
+ICD-10,A21,7,A217,Generalized tularemia,Generalized tularemia,Tularemia
+ICD-10,A21,8,A218,Other forms of tularemia,Other forms of tularemia,Tularemia
+ICD-10,A21,9,A219,"Tularemia, unspecified","Tularemia, unspecified",Tularemia
+ICD-10,A22,0,A220,Cutaneous anthrax,Cutaneous anthrax,Anthrax
+ICD-10,A22,1,A221,Pulmonary anthrax,Pulmonary anthrax,Anthrax
+ICD-10,A22,2,A222,Gastrointestinal anthrax,Gastrointestinal anthrax,Anthrax
+ICD-10,A22,7,A227,Anthrax sepsis,Anthrax sepsis,Anthrax
+ICD-10,A22,8,A228,Other forms of anthrax,Other forms of anthrax,Anthrax
+ICD-10,A22,9,A229,"Anthrax, unspecified","Anthrax, unspecified",Anthrax
+ICD-10,A23,0,A230,Brucellosis due to Brucella melitensis,Brucellosis due to Brucella melitensis,Brucellosis
+ICD-10,A23,1,A231,Brucellosis due to Brucella abortus,Brucellosis due to Brucella abortus,Brucellosis
+ICD-10,A23,2,A232,Brucellosis due to Brucella suis,Brucellosis due to Brucella suis,Brucellosis
+ICD-10,A23,3,A233,Brucellosis due to Brucella canis,Brucellosis due to Brucella canis,Brucellosis
+ICD-10,A23,8,A238,Other brucellosis,Other brucellosis,Brucellosis
+ICD-10,A23,9,A239,"Brucellosis unspecified","Brucellosis unspecified",Brucellosis
+ICD-10,A24,0,A240,Glanders,Glanders,Glanders and melioidosis
+ICD-10,A24,1,A241,Acute and fulminating melioidosis,Acute and fulminating melioidosis,Glanders and melioidosis
+ICD-10,A24,2,A242,Subacute and chronic melioidosis,Subacute and chronic melioidosis,Glanders and melioidosis
+ICD-10,A24,3,A243,Other melioidosis,Other melioidosis,Glanders and melioidosis
+ICD-10,A24,9,A249,"Melioidosis unspecified","Melioidosis unspecified",Glanders and melioidosis
+ICD-10,A25,0,A250,Spirillosis,Spirillosis,Rat-bite fevers
+ICD-10,A25,1,A251,Streptobacillosis,Streptobacillosis,Rat-bite fevers
+ICD-10,A25,9,A259,"Rat-bite fever, unspecified","Rat-bite fever, unspecified",Rat-bite fevers
+ICD-10,A26,0,A260,Cutaneous erysipeloid,Cutaneous erysipeloid,Erysipeloid
+ICD-10,A26,7,A267,Erysipelothrix sepsis,Erysipelothrix sepsis,Erysipeloid
+ICD-10,A26,8,A268,Other forms of erysipeloid,Other forms of erysipeloid,Erysipeloid
+ICD-10,A26,9,A269,"Erysipeloid unspecified","Erysipeloid unspecified",Erysipeloid
+ICD-10,A27,0,A270,Leptospirosis icterohemorrhagica,Leptospirosis icterohemorrhagica,Leptospirosis
+ICD-10,A278,1,A2781,Aseptic meningitis in leptospirosis,Aseptic meningitis in leptospirosis,Other forms of leptospirosis
+ICD-10,A278,9,A2789,Other forms of leptospirosis,Other forms of leptospirosis,Other forms of leptospirosis
+ICD-10,A279,,A279,"Leptospirosis, unspecified","Leptospirosis, unspecified","Leptospirosis, unspecified"
+ICD-10,A28,0,A280,Pasteurellosis,Pasteurellosis,"Other zoonotic bacterial diseases, not elsewhere classified"
+ICD-10,A28,1,A281,Cat-scratch disease,Cat-scratch disease,"Other zoonotic bacterial diseases not elsewhere classified"
+ICD-10,A28,2,A282,Extraintestinal yersiniosis,Extraintestinal yersiniosis,"Other zoonotic bacterial diseases, not elsewhere classified"
+ICD-10,A28,8,A288,"Oth zoonotic bacterial diseases, not elsewhere classified","Other specified zoonotic bacterial diseases, not elsewhere classified","Other zoonotic bacterial diseases, not elsewhere classified"
+ICD-10,A28,9,A289,"Zoonotic bacterial disease unspecified","Zoonotic bacterial disease, unspecified","Other zoonotic bacterial diseases, not elsewhere classified"
+ICD-10,A30,0,A300,Indeterminate leprosy,Indeterminate leprosy,Leprosy [Hansen's disease]
+ICD-10,A30,1,A301,Tuberculoid leprosy,Tuberculoid leprosy,Leprosy [Hansen's disease]
+ICD-10,A30,2,A302,Borderline tuberculoid leprosy,Borderline tuberculoid leprosy,Leprosy [Hansen's disease]
+ICD-10,A30,3,A303,Borderline leprosy,Borderline leprosy,Leprosy [Hansen's disease]
+ICD-10,A30,4,A304,Borderline lepromatous leprosy,Borderline lepromatous leprosy,Leprosy [Hansen's disease]
+ICD-10,A30,5,A305,Lepromatous leprosy,Lepromatous leprosy,Leprosy [Hansen's disease]
+ICD-10,A30,8,A308,Other forms of leprosy,Other forms of leprosy,Leprosy [Hansen's disease]
+ICD-10,A30,9,A309,"Leprosy, unspecified","Leprosy unspecified",Leprosy [Hansen's disease]
+ICD-10,A31,0,A310,Pulmonary mycobacterial infection,Pulmonary mycobacterial infection,Infection due to other mycobacteria
+ICD-10,A31,1,A311,Cutaneous mycobacterial infection,Cutaneous mycobacterial infection,Infection due to other mycobacteria
+ICD-10,A31,2,A312,Dissem mycobacterium avium-intracellulare complex (DMAC),Disseminated mycobacterium avium-intracellulare complex (DMAC),Infection due to other mycobacteria
+ICD-10,A31,8,A318,Other mycobacterial infections,Other mycobacterial infections,Infection due to other mycobacteria
+ICD-10,A31,9,A319,"Mycobacterial infection, unspecified","Mycobacterial infection, unspecified",Infection due to other mycobacteria
+ICD-10,A32,0,A320,Cutaneous listeriosis,Cutaneous listeriosis,Listeriosis
+ICD-10,A321,1,A3211,Listerial meningitis,Listerial meningitis,Listerial meningitis and meningoencephalitis
+ICD-10,A321,2,A3212,Listerial meningoencephalitis,Listerial meningoencephalitis,Listerial meningitis and meningoencephalitis
+ICD-10,A327,,A327,Listerial sepsis,Listerial sepsis,Listerial sepsis
+ICD-10,A328,1,A3281,Oculoglandular listeriosis,Oculoglandular listeriosis,Other forms of listeriosis
+ICD-10,A328,2,A3282,Listerial endocarditis,Listerial endocarditis,Other forms of listeriosis
+ICD-10,A328,9,A3289,Other forms of listeriosis,Other forms of listeriosis,Other forms of listeriosis
+ICD-10,A329,,A329,"Listeriosis unspecified","Listeriosis, unspecified","Listeriosis, unspecified"
+ICD-10,A33,,A33,Tetanus neonatorum,Tetanus neonatorum,Tetanus neonatorum
+ICD-10,A34,,A34,Obstetrical tetanus,Obstetrical tetanus,Obstetrical tetanus

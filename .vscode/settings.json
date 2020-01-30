@@ -1,0 +1,14 @@
+{
+  "python.pythonPath": "/Users/itcadmin/.pyenv/versions/3.7.6/bin/python",
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "python.formatting.provider": "autopep8",
+  "python.formatting.autopep8Args": [
+    "--max-line-length",
+    "70",
+    "--aggressive",
+    "--aggressive"
+  ],
+  "python.autoComplete.addBrackets": true,
+  "editor.formatOnSave": true
+}
